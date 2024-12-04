@@ -27,7 +27,7 @@ public class GithubUrlBuilder {
         }
     }
 
-    GithubUrlBuilder(Builder builder) {
+    private GithubUrlBuilder(Builder builder) {
         this.username = builder.username;
         this.baseUrlFormmated = builder.baseUrlFormmated;
     }
