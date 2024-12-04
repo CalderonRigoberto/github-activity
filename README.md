@@ -1,6 +1,6 @@
 # Github User Activity CLI
 
-A command-line github user activity application built as part of my Java learning journey following the [roadmap.sh]([https://roadmap.sh](https://roadmap.sh/projects/task-tracker)) path. This project demonstrates practical implementation of modern Java features while helping others learn through real-world examples.
+A command-line github user activity application built as part of my Java learning journey following the [roadmap.sh]([https://roadmap.sh](https://roadmap.sh/projects/github-user-activity)) path. This project demonstrates practical implementation of modern Java features while helping others learn through real-world examples.
 
 ## About This Project
 
