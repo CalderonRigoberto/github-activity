@@ -21,7 +21,7 @@ public class GithubApiClient {
     private final HttpRequest httpRequest;
 
     public GithubApiClient(String username) {
-        GithubUrlBuilder githubUrlBuilder = new GithubUrlBuilder.Builder(username)
+        GithubUrl githubUrlBuilder = new GithubUrl.Builder(username)
                 .build();
 
         this.httpRequest = HttpRequest.newBuilder()
